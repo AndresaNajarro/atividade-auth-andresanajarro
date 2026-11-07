@@ -68,7 +68,9 @@ Foram executados os 5 cenários obrigatórios utilizando o Postman Desktop. As r
 Os testes foram registrados em uma planilha contendo ID, cenário, entradas, resultados esperados/obtidos, status e observações. A documentação é essencial para garantir a rastreabilidade dos testes e permitir que outros desenvolvedores entendam o comportamento da API.
 
 *Evidências:*
-(Se você tiver o print da planilha, cole o link dela aqui)
+
+[Planilha de Testes]
+<img width="1425" height="147" alt="image" src="https://github.com/user-attachments/assets/2f1544e3-346a-4842-9e5d-729a0b51763b" />
 
 # Resultados Obtidos
 
