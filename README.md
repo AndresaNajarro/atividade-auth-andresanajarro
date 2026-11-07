@@ -2,6 +2,9 @@
 
 Este repositório contém a documentação e as evidências da atividade prática de Testes de Caixa Cinza em APIs de autenticação, utilizando o Supabase como provedor de identidade e o Postman Desktop para a execução das requisições HTTP.
 
+Nome: Andresa Cristina Najarro de Campos
+RA: 251538
+
 # Objetivo da Atividade
 
 O objetivo desta atividade foi compreender e aplicar testes de caixa cinza em APIs de autenticação, configurando um ambiente real no Supabase, criando usuários de teste, estruturando requisições HTTP no Postman e validando os diferentes cenários de resposta (sucesso e erro) da API.
