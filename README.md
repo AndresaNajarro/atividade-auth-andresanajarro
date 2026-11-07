@@ -14,7 +14,7 @@ O objetivo desta atividade foi compreender e aplicar testes de caixa cinza em AP
 - **Credenciais:** A URL do projeto e a chave pública (Publishable/anon key) foram obtidas no painel do Supabase para configurar o Postman.
 
 *Evidências:*
-![Painel do Supabase](COLE_O_LINK_DA_IMAGEM_SUPABASE_AQUI)
+![Painel do Supabase](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/supabase-usuario.png?raw=true)
 
 # Configuração do Postman
 
@@ -30,7 +30,7 @@ O objetivo desta atividade foi compreender e aplicar testes de caixa cinza em AP
 - **Body:** Envio de um JSON contendo `email` e `password`.
 
 *Evidências:*
-![Configuração da Requisição](COLE_O_LINK_DA_IMAGEM_REQUISICAO_AQUI)
+![Configuração da Requisição](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/requisicao-postman.png?raw=true)
 
 # Execução dos Testes
 
@@ -49,19 +49,19 @@ Foram executados os 5 cenários obrigatórios utilizando o Postman Desktop. As r
 *Evidências:*
 
 **Login Válido (200 OK):**
-![Teste Login Válido](COLE_O_LINK_DA_IMAGEM_LOGIN_AQUI)
+![Teste Login Válido](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/login-valido.png?raw=true)
 
 **Senha Incorreta:**
-![Teste Senha Incorreta](COLE_O_LINK_DA_IMAGEM_SENHA_AQUI)
+![Teste Senha Incorreta](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/senha-incorreta.png?raw=true)
 
 **Usuário Inexistente:**
-![Teste Usuário Inexistente](COLE_O_LINK_DA_IMAGEM_USUARIO_AQUI)
+![Teste Usuário Inexistente](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/usuario-inexistente.png?raw=true)
 
 **Campos Vazios:**
 ![Teste Campos Vazios](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/campos-vazios.png?raw=true)
 
 **Credenciais Inválidas:**
-![Teste Credenciais Inválidas](COLE_O_LINK_DA_IMAGEM_CREDENCIAIS_AQUI)
+![Teste Credenciais Inválidas](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/credenciais-invalidas.png?raw=true)
 
 # Registro dos Testes
 
