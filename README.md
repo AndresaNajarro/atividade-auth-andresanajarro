@@ -58,7 +58,7 @@ Foram executados os 5 cenários obrigatórios utilizando o Postman Desktop. As r
 ![Teste Usuário Inexistente](COLE_O_LINK_DA_IMAGEM_USUARIO_AQUI)
 
 **Campos Vazios:**
-![Teste Campos Vazios](COLE_O_LINK_DA_IMAGEM_CAMPOS_AQUI)
+![Teste Campos Vazios](https://github.com/AndresaNajarro/atividade-auth-andresanajarro/blob/main/atividade-auth-ra251538/prints/campos-vazios.png?raw=true)
 
 **Credenciais Inválidas:**
 ![Teste Credenciais Inválidas](COLE_O_LINK_DA_IMAGEM_CREDENCIAIS_AQUI)
